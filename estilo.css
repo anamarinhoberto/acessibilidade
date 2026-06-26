@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+    color: black;
+}
+header{
+    background-color: rgb(66, 66, 230);
+    color: white;
+    text-align: center;
+    ]padding: 20px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.card{
+    width: 80%;
+    max-width: 600px;
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+text-align: center;
+}
+p{
+    font-size: 18px;
+    line-height: 1.6;
+}
+button{
+    margin: 8px;
+    padding: 12px 18px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 8px;
+}
+button:hover{
+    background-color: ;
+}
