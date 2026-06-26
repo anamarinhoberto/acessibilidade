@@ -46,14 +46,15 @@ button:hover{
 }
 
 .contraste{
-    background-color:yellow;
+    background-color:black;
+    color: yellow;
 }
 .contraste .card{
     background-color: black;
     color:yellow;
     border: 2px solid yellow;
 }
-.contraste buttin{
+.contraste button{
     background-color: yellow;
     color: black;
 }

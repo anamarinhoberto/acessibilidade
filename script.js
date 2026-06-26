@@ -6,8 +6,8 @@ function aumentarFonte() {
 }
 function diminuirFonte() {
     tamanhoFonte -= 2;
-    DocumentTimeline.getElementById('texto').style.fontSize = tamanhoFonte + 'px';
+    document.getElementById('texto').style.fontSize = tamanhoFonte + 'px';
 }
-function altoContratse() {
+function altoContraste() {
     document.body.classList.toggle('contraste');
 }
