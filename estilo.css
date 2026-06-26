@@ -40,3 +40,20 @@ button{
 button:hover{
     background-color: ;
 }
+button:hover{
+    background-color: darkslateblue;
+
+}
+
+.contraste{
+    background-color:yellow;
+}
+.contraste .card{
+    background-color: black;
+    color:yellow;
+    border: 2px solid yellow;
+}
+.contraste buttin{
+    background-color: yellow;
+    color: black;
+}
